@@ -386,12 +386,18 @@
 
     <script>
     $(document).ready(function() {
-    $('#water').ripples({
-    resolution: 512,
-    dropRadius: 20,
-    perturbance: 0.04,
-    });
-    });
+        try {
+            $('#water').ripples({
+            resolution: 512,
+            dropRadius: 20,
+            perturbance: 0.04,
+            });
+            });
+        }
+        
+        catch (e) {
+            $('.error').show().text(e);
+        }
     </script>
 
 </body>
