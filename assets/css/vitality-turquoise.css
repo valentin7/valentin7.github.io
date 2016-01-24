@@ -1,18 +1,6 @@
-/*!
- * Vitality v1.3 (http://themes.startbootstrap.com/vitality-v1.1)
- * Copyright 2014 Start Bootstrap Themes.
- * Licensed at WrapBootstrap, visit WrapBootstrap to purchase a usage license for this theme (https://wrapbootstrap.com/)
- */
-
 html,
 body {
     height: 100%;
-/*
-    width: 100%;
-    margin: 0px;
-    padding: 0px;
-*/
-
 }
 
 .img-centered {
@@ -22,7 +10,7 @@ body {
 .content-row {
     margin-top: 30px;
 }
-vitality-turquoise.css
+
 section {
     padding: 100px 0;
 }
@@ -48,7 +36,7 @@ body {
 }
 
 a {
-    color: #38e6d8;
+    color: #41c4ab;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     transition: all .5s;
@@ -79,7 +67,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: "Helvetica Neue-Thin",Helvetica,Arial,sans-serif;
+    font-family: Raleway,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 900;
 }
 
@@ -110,7 +98,7 @@ hr.right {
 }
 
 hr.colored {
-    border-color: #38e6d8;
+    border-color: #41c4ab;
 }
 
 @media(min-width:768px) {
@@ -129,7 +117,7 @@ hr.colored {
 }
 
 .text-primary {
-    color: #38e6d8;
+    color: #41c4ab;
 }
 
 .navbar-default .navbar-nav>.active>a,
@@ -139,12 +127,12 @@ hr.colored {
 .navbar-inverse .navbar-nav>.active>a:hover,
 .navbar-inverse .navbar-nav>.active>a:focus {
     border-radius: 0;
-    color: #38e6d8;
+    color: #41c4ab;
     background-color: #fff;
 }
 
 .navbar-default {
-    background-color: #38e6d8;
+    background-color: #41c4ab;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -486,7 +474,7 @@ aside.cta-quote span.quote {
     font-size: 30px!important;
     line-height: 50px;
     color: #fff!important;
-    background-color: #38e6d8!important;
+    background-color: #41c4ab!important;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     transition: all .5s;
@@ -580,7 +568,7 @@ aside.cta-quote span.quote {
     font-size: 30px!important;
     line-height: 50px;
     color: #fff!important;
-    background-color: #38e6d8!important;
+    background-color: #41c4ab!important;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     transition: all .5s;
@@ -698,7 +686,7 @@ aside.cta-quote span.quote {
     font-size: 30px!important;
     line-height: 70px;
     color: #fff!important;
-    background-color: #38e6d8!important;
+    background-color: #41c4ab!important;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     transition: all .5s;
@@ -856,9 +844,9 @@ aside.cta-quote span.quote {
 }
 
 .portfolio-filter #filters li .filter.active {
-    border-color: #38e6d8;
+    border-color: #41c4ab;
     color: #fff;
-    background-color: #38e6d8;
+    background-color: #41c4ab;
 }
 
 #portfoliolist .portfolio {
@@ -894,7 +882,7 @@ aside.cta-quote span.quote {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #38e6d8;
+    background: #41c4ab;
 }
 
 #portfoliolist .portfolio .portfolio-wrapper .caption .caption-text {
@@ -1050,7 +1038,7 @@ aside.cta-quote span.quote {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #38e6d8;
+    color: #41c4ab;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -1109,7 +1097,7 @@ footer.footer .copyright p.small {
 .btn-outline-light:hover,
 .btn-outline-light:focus {
     outline: 0;
-    color: #38e6d8;
+    color: #41c4ab;
     background: #fff;
 }
 
@@ -1124,10 +1112,10 @@ footer.footer .copyright p.small {
 
 .btn-outline-dark:hover,
 .btn-outline-dark:focus {
-    border-color: #38e6d8;
+    border-color: #41c4ab;
     outline: 0;
     color: #fff;
-    background: #38e6d8;
+    background: #41c4ab;
 }
 
 .btn {
@@ -1158,7 +1146,7 @@ footer.footer .copyright p.small {
 
 .btn-full-width:hover {
     color: #fff;
-    background-color: #38e6d8;
+    background-color: #41c4ab;
 }
 
 .btn-full-width:focus {
