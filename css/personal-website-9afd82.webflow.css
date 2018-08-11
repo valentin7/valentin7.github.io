@@ -1,0 +1,308 @@
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-family: Euclidflextrial, sans-serif;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 300;
+}
+
+a {
+  -webkit-transition: opacity 200ms ease, opacity 200ms ease;
+  transition: opacity 200ms ease, opacity 200ms ease;
+  color: #585858;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.heading {
+  margin-bottom: 22px;
+  font-family: Euclidflextrial, sans-serif;
+  font-size: 73px;
+  font-weight: 700;
+}
+
+.div-block {
+  height: 400px;
+}
+
+.text-block {
+  margin: 1px 0px;
+  padding-left: 2px;
+  color: #2464c2;
+  font-size: 60px;
+}
+
+.text-block-2 {
+  margin-top: 48px;
+  -webkit-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  -webkit-transition: opacity 608ms ease;
+  transition: opacity 608ms ease;
+  font-family: Euclidflextrial, sans-serif;
+  font-size: 41px;
+  line-height: 60px;
+  font-weight: 400;
+}
+
+.heading-2 {
+  margin-top: 33px;
+  margin-bottom: 0px;
+  font-family: Euclidflextrial, sans-serif;
+}
+
+.column {
+  margin-top: 25px;
+}
+
+.div-block-2 {
+  margin-top: 55px;
+  margin-bottom: 25px;
+  padding-top: 17px;
+  padding-bottom: 0px;
+  border-style: solid none none;
+  border-width: 3px 1px 1px;
+  border-color: #2464c2 #000 #000;
+}
+
+.body {
+  border-top: 2px none #2f4fcf;
+}
+
+.social-media-links {
+  font-family: Euclidflextrial, sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.image {
+  height: 35px;
+  margin-right: 20px;
+}
+
+.image-2 {
+  height: 25px;
+  margin-right: 20px;
+}
+
+.image-3 {
+  margin-right: 20px;
+}
+
+.column-2 {
+  text-align: right;
+}
+
+.image-4 {
+  margin-right: 20px;
+}
+
+.image-5 {
+  margin-right: 20px;
+}
+
+.image-6 {
+  margin-right: 20px;
+}
+
+.text-block-3 {
+  margin-top: 25px;
+  font-family: Euclidflextrial, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.div-block-3 {
+  background-color: #2464c2;
+}
+
+.link {
+  margin-right: 20px;
+  font-family: Euclidflextrial, sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+@media (max-width: 479px) {
+  .heading {
+    margin-top: -10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    line-height: 73px;
+  }
+  .text-block {
+    padding-left: 13px;
+  }
+  .text-block-2 {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 35px;
+  }
+  .image.icon {
+    margin-right: 15px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .image-2.icon {
+    margin-right: 15px;
+  }
+  .image-3.icon {
+    margin-right: 15px;
+  }
+  .column-2 {
+    padding-left: 0px;
+    text-align: center;
+  }
+  .image-4.icon {
+    margin-right: 15px;
+  }
+  .image-5.icon {
+    margin-right: 15px;
+  }
+  .image-6.icon {
+    margin-right: 15px;
+  }
+  .icon {
+    margin-right: 0px;
+  }
+  .column-3 {
+    margin-top: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+}
+
+@font-face {
+  font-family: 'Fregsans';
+  src: url('../fonts/FreigSanProBold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freigsanproblkit';
+  src: url('../fonts/FreigSanProBlkIt.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freigsanproligit';
+  src: url('../fonts/FreigSanProLigIt.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freight';
+  src: url('../fonts/FreigSanProBoldIt.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freigsanprosem';
+  src: url('../fonts/FreigSanProSem.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freigsanprobook';
+  src: url('../fonts/FreigSanProBook.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freigsanprobookit';
+  src: url('../fonts/FreigSanProBookIt.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freigsanprolig';
+  src: url('../fonts/FreigSanProLig.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freigsanpromed';
+  src: url('../fonts/FreigSanProMed.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freigsanpromedit';
+  src: url('../fonts/FreigSanProMedIt.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freigsanprosemit';
+  src: url('../fonts/FreigSanProSemIt.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Freigsanproblk';
+  src: url('../fonts/FreigSanProBlk.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Euclidflextrial';
+  src: url('../fonts/EuclidFlexTrial-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Euclidflextrial';
+  src: url('../fonts/EuclidFlexTrial-BoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Euclidflextrial';
+  src: url('../fonts/EuclidFlexTrial-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Euclidflextrial';
+  src: url('../fonts/EuclidFlexTrial-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Euclidflextrial';
+  src: url('../fonts/EuclidFlexTrial-MediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Euclidflextrial';
+  src: url('../fonts/EuclidFlexTrial-Ultralight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Euclidflextrial';
+  src: url('../fonts/EuclidFlexTrial-RegularItalic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Euclidflextrial';
+  src: url('../fonts/EuclidFlexTrial-UltralightItalic.otf') format('opentype');
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Euclidflextrial';
+  src: url('../fonts/EuclidFlexTrial-LightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Euclidflextrial';
+  src: url('../fonts/EuclidFlexTrial-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
